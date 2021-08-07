@@ -30,6 +30,8 @@ An anticheat / utility for Bedrock Dedicated Servers using BDSX to help against 
 
 - Log to discord (Detections/Joins/leaves/Chat/Whispers)
 
+- All features configurable from configuration file
+
 Test server with this installed (1.17.10):
 
 IP: `mc2.mcchosting.tk `
