@@ -2,6 +2,8 @@
 An anticheat / utility for Bedrock Dedicated Servers using BDSX to help against rule breakers and hackers that use hack clients such as toolbox, horion, zephyr. DM me on discord if interested iceraven#0001
 
 **Features**
+- Anti-toolbox (Disconnects player if they are using toolbox hack client. 1.17.11+)
+
 - Block give item hacks
 
 - Block NBT hacks
@@ -21,6 +23,8 @@ An anticheat / utility for Bedrock Dedicated Servers using BDSX to help against 
 - Block name changer/namespoof
 
 - Ban items
+
+- Force latest version (Optionally enforce latest minecraft version. Useful for enforcing hotfixes/patches)
 
 - Timed bans with GUI (/ban, /unban, /banlist)
 
