@@ -2,7 +2,7 @@
 An anticheat / utility for Bedrock Dedicated Servers using BDSX to help against rule breakers and hackers that use hack clients such as toolbox, horion, zephyr. DM me on discord if interested iceraven#0001
 
 **Features**
-- Anti-toolbox (Disconnects player if they are using toolbox hack client. 1.17.11+)
+- Anti-client (Disconnects player if they are using toolbox hack client)
 
 - Block give item hacks
 
@@ -36,7 +36,7 @@ An anticheat / utility for Bedrock Dedicated Servers using BDSX to help against 
 
 - All features configurable from configuration file
 
-Test server with this installed (1.17.10):
+Test server with this installed (1.17.11):
 
 IP: `mc2.mcchosting.tk `
 
