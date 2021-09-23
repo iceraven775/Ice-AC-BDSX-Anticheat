@@ -10,6 +10,10 @@ An anticheat / utility for Bedrock Dedicated Servers using BDSX to help against 
 
 - Block Enchant hacks
 
+- Anti-fly
+
+- Username Character Length Limiter 
+
 - Anti-illegal-enchants (if enabled, Clears existing items over vanilla Enchant limits)
 
 - Anti-nuker
@@ -38,7 +42,7 @@ An anticheat / utility for Bedrock Dedicated Servers using BDSX to help against 
 
 - All features configurable from configuration file
 
-Test server with this installed (1.17.11):
+Test server with this installed:
 
 IP: `mc2.mcchosting.tk `
 
