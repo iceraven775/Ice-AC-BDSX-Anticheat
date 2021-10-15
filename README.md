@@ -44,6 +44,6 @@ An anticheat / utility for Bedrock Dedicated Servers using BDSX to help against 
 
 Test server with this installed:
 
-IP: `mc2.mcchosting.tk `
+IP: `mc2.mcchosting.co.uk`
 
 Port: `19132`
