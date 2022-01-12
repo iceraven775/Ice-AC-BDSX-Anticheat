@@ -1,7 +1,9 @@
 # Ice-AC-BDSX-Anticheat
-An anticheat / utility for Bedrock Dedicated Servers using BDSX to help against rule breakers and hackers that use hack clients such as toolbox, horion, zephyr. DM me on discord if interested iceraven#8582
+An anticheat / utility for Bedrock Dedicated Servers using BDSX to help against rule breakers and hackers that use hack clients such as toolbox, horion, zephyr etc. This is a paid plugin and future updates/patches are guaranteed. DM me on discord if interested: iceraven#8582
 
 **Features**
+- Lightweight and optimized plugin. Causes no lag to your server
+
 - Anti-hackclient (Disconnects player if they are using toolbox hack client)
 
 - Block give item hacks
@@ -28,19 +30,23 @@ An anticheat / utility for Bedrock Dedicated Servers using BDSX to help against 
 
 - Block name changer/namespoof
 
-- Ban items
+- Ban items/blocks
 
-- Force latest version (Optionally enforce latest minecraft version. Useful for enforcing hotfixes/patches)
+- Anti-commandblock (Prevents non-operators from using/accessing command blocks)
 
-- Timed bans with GUI (/ban, /unban, /banlist)
+- Force minecraft versions (Optionally only allow specific minecraft versions to join. Useful for enforcing hotfixes/patches)
+
+- Timed bans and ban IP with GUI (/ban, /unban, /banlist)
 
 - Timed mutes with GUI (/mute, /unmute, /mutelist)
 
 - Player reports (/report)
 
-- Log to discord (Detections/Joins/leaves/Chat/Whispers)
+- Log to discord (Detections/moderations/Joins/leaves/Chat/Whispers)
 
-- All features configurable from configuration file
+- Anti-@a-@e (Stop non-operators from using @a @e tags in whispers causing spam/crash)
+
+- All features and messages configurable from configuration files. 
 
 Test server with this installed:
 
