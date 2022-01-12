@@ -1,5 +1,6 @@
 # Ice-AC-BDSX-Anticheat
-An anticheat / utility for Bedrock Dedicated Servers using BDSX to help against rule breakers and hackers that use hack clients such as toolbox, horion, zephyr etc. This is a paid plugin and future updates/patches are guaranteed. DM me on discord if interested: iceraven#8582
+An anticheat / utility for Bedrock Dedicated Servers using BDSX to help against rule breakers and hackers that use hack clients such as toolbox, horion, zephyr etc. 
+This is a paid plugin and future updates/patches are guaranteed. DM me on discord if interested: iceraven#8582
 
 **Features**
 - Lightweight and optimized plugin. Causes no lag to your server
