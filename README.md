@@ -16,6 +16,12 @@ This is a paid plugin and future updates/patches are guaranteed. DM me on discor
 
 - Anti-fly
 
+- Anti-DoS 
+
+- Anti-spam (Chat cooldown, message similarity check)
+
+- Chat-censor (ban words)
+
 - Username Character Length Limiter 
 
 - Anti-illegal-enchants (if enabled, Clears existing items over vanilla Enchant limits)
@@ -43,6 +49,8 @@ This is a paid plugin and future updates/patches are guaranteed. DM me on discor
 - Timed mutes with GUI (/mute, /unmute, /mutelist)
 
 - Player reports (/report)
+
+- Optional chat based commands (like !ban or -ban for servers with allow-cheats=false)
 
 - Log to discord (Detections/moderations/Joins/leaves/Chat/Whispers)
 
