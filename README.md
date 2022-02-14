@@ -22,6 +22,8 @@ This is a paid plugin and future updates/patches are guaranteed. DM me on discor
 
 - Chat-censor (ban words)
 
+- Spawn Protection (block break/place/pvp etc in spawn)
+
 - Username Character Length Limiter 
 
 - Anti-illegal-enchants (if enabled, Clears existing items over vanilla Enchant limits)
