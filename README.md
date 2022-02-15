@@ -24,6 +24,8 @@ This is a paid plugin and future updates/patches are guaranteed. DM me on discor
 
 - Spawn Protection (block break/place/pvp etc in spawn)
 
+- Check inventory command (view contents of a player's inventory including enchants)
+
 - Username Character Length Limiter 
 
 - Anti-illegal-enchants (if enabled, Clears existing items over vanilla Enchant limits)
