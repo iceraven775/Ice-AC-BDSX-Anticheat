@@ -22,7 +22,7 @@ This is a paid plugin and future updates/patches are guaranteed. DM me on discor
 
 - Chat-censor (ban words)
 
-- Spawn Protection (block break/place/pvp etc in spawn)
+- Spawn Protection (block break/place/use/interact/drop/pickup/pvp/damage in configurable radius of spawn)
 
 - Check inventory command (view contents of a player's inventory including enchants)
 
